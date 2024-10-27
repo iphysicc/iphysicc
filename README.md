@@ -1,10 +1,6 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=vortex&color=0:FF6B6B,50:4ECDC4,100:8075FF&height=300&section=header&text=Physic%20(Mert)&desc=Software%20Architect%20%7C%20Full%20Stack%20Developer&animation=fadeIn&fontColor=fff&fontSize=80&fontAlignY=35&descSize=25&descAlignY=60">
-</div>
-
-<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8075FF&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%94%AE+Full+Stack+Developer;%F0%9F%8C%9F+Software+Architect;%F0%9F%9A%80+Problem+Solver;%F0%9F%8E%AF+Code+Craftsman" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8075FF&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%94%AE+Web,+Mobile,+ Desktop developer;%F0%9F%8C%9F+Software+Architect;%F0%9F%9A%80+Problem+Solver;%F0%9F%8E%AF+Code+Craftsman" alt="Typing SVG" />
   </a>
 </div>
 
