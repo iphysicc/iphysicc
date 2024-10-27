@@ -12,7 +12,7 @@
 const Physic = {
     realName: "Mert",
     nickname: "Physic",
-    role: "Full Stack Developer",
+    role: "Developer",
     location: "Digital Universe 🌌",
     technologies: {
         frontend: ["React", "Next.js", "HTML", "CSS"],
@@ -20,7 +20,7 @@ const Physic = {
         desktop: ["Electron.js", "Tauri"],
         mobile: ["Java"],
     },
-    currentFocus: "Building cross-platform applications",
+    currentFocus: "Building Web, Mobile, Desktop applications",
     passions: ["Clean Code", "Problem Solving", "Innovation"],
     motto: "Code with passion, debug with patience 🚀"
 };
