@@ -8,6 +8,40 @@
   <img src="https://profile-counter.glitch.me/iphysicc/count.svg" alt="Visitor Count" />
 </div>
 
+<div align="center">
+  <h2>Loading...</h2>
+  <div class="progress-container">
+    <div class="progress-bar"></div>
+  </div>
+</div>
+
+<style>
+  .progress-container {
+    width: 100%;
+    background-color: #e0e0e0;
+    border-radius: 25px;
+    overflow: hidden;
+    height: 30px;
+    margin: 20px 0;
+  }
+
+  .progress-bar {
+    height: 100%;
+    width: 0;
+    background-color: #4caf50;
+    animation: loading 5s forwards; /* Adjust duration as needed */
+  }
+
+  @keyframes loading {
+    from {
+      width: 0;
+    }
+    to {
+      width: 100%;
+    }
+  }
+</style>
+
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"> About Me
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
