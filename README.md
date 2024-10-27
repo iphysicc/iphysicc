@@ -1,107 +1,139 @@
-<h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Welcome to Physic (Mert)'s Profile! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+<!-- Header Banner with animated background -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Physic%20(Mert)&fontSize=80&fontAlignY=35&animation=twinkling&desc=Web,%20Mobile%20and%20Desktop%20Developer&descAlignY=50">
+</div>
+
+<div align="center">
+  <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+  <p><b>Crafting Digital Experiences | Problem Solver | Tech Enthusiast</b></p>
+  <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Web%2C+Mobile%2C+Desktop+Developer;Full+Stack+Development;Always+Learning+New+Things;5%2B+Years+of+Coding+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=500&height=100&lines=Passionate+Full+Stack+Developer;Turning+Coffee+into+Code+Since+2018;Creating+Digital+Magic+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iphysicc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome" />
+</div>
+
+## 🧙‍♂️ About Me
+
+<img align="right" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" />
+
+### 👨‍💻 Who am I?
+```yaml
+name: Physic (Mert)
+located_in: Your Location
+current_job: Full Stack Developer
+education:
+  [
+    "Self-Taught Developer",
+    "Your Education Details"
+  ]
+company: Your Company Name
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Mobile Development",
+    "Desktop Development",
+    "UI/UX",
+    "Game Development",
+    "DevOps"
+  ]
+  
+technical_background:
+  [
+    "Full Stack Developer - Your Experience",
+    "Open Source Contributor",
+    "Your Other Experiences"
+  ]
+  
+currently_learning: ["Docker", "Kubernetes", "AI/ML"]
+2024 Goals: ["Create 20+ Projects", "Learn at least 5 new Technologies"]
+hobbies: ["Gaming", "Cinema", "Your Hobbies"]
+```
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+</p>
+
+## 🚀 Skills & Technologies
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+</div>
+
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://i.imgur.com/gF3E4nF.gif" alt="python" width="45" height="45"/>
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" alt="javascript" width="45" height="45"/>
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" alt="react" width="45" height="45"/>
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" alt="vscode" width="45" height="45"/>
+  <img src="https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/200.webp" alt="git" width="45" height="45"/>
+</p>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iphysicc&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><br>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=iphysicc&show_icons=true&theme=radical&count_private=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iphysicc&layout=compact&theme=radical" /> <br><br>
+  <img src="https://streak-stats.demolab.com?user=iphysicc&theme=radical" />
+</div>
+
+## 🏆 Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iphysicc&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
 </div>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iphysicc&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iphysicc&bg_color=141321&color=fe428e&line=f6d6d6&point=f9f9f9&hide_border=true" width="100%"/>
 
-## 🚀 About Me
-```javascript
-const physic = {
-    pronouns: "He" | "Him",
-    code: ["Python", "JavaScript", "HTML", "CSS", "C#"],
-    askMeAbout: ["web dev", "mobile dev", "desktop dev", "tech"],
-    technologies: {
-        frontEnd: {
-            css: ["Bootstrap", "Tailwind CSS"],
-            javascript: ["React", "Vue"]
-        },
-        backEnd: {
-            python: ["Django", "Flask"],
-            csharp: [".NET Core", "WPF"]
-        },
-        databases: ["MongoDB", "MySQL", "SQLite"],
-        misc: ["Firebase", "Socket.IO"]
-    },
-    currentFocus: "Building Digital Solutions that Make a Difference",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
-
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iphysicc&theme=tokyonight&hide_border=true" />
-</p>
-
-## 🛠️ My Favorite Tools
-
-### 👨‍💻 Programming Languages
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### 🧰 Frameworks and Libraries
-<p>
-  <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
-
-### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iphysicc&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iphysicc&theme=tokyonight&hide_border=true&layout=compact" />
-</p>
-
-### ⚡ Recent GitHub Activity
-<a href="https://github.com/iphysicc"><img alt="Physic's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=iphysicc&custom_title=Physic's%20Contribution%20Graph&theme=tokyo-night&hide_border=true" /></a>
-
-### 🌟 Coding Time Breakdown
-```text
-💻 IDE Usage:
-VS Code       ██████████████████░░░░   80%
-Visual Studio ████░░░░░░░░░░░░░░░░░░   15%
-PyCharm       ██░░░░░░░░░░░░░░░░░░░░   05%
-
-⌚ Weekly Development Breakdown:
-Python       12 hrs 23 mins  ██████████░░░░░░░░░░   45.2%
-JavaScript   8 hrs 15 mins   ████████░░░░░░░░░░░░   30.1%
-HTML/CSS     4 hrs 7 mins    ████░░░░░░░░░░░░░░░░   15.3%
-C#           2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░   09.4%
-```
-
-### 🤝 Connect with Me
-<p align="center">
-  <a href="your-linkedin-url">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="your-twitter-url">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="your-portfolio-url">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+## ⚡ Recent Activity
+<!--START_SECTION:activity-->
+1. 🔥 Pushed new features
+2. 🎉 Merged PRs
+3. 💻 Created new projects
+4. 🌟 Starred repositories
+<!--END_SECTION:activity-->
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=iphysicc&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
+
+  <!-- Spotify Playing -->
+  <p>🎧 Now Playing on Spotify</p>
+  
+  [![Spotify](https://novatorem-nine-delta.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
 </div>
 
-<!-- Snake animation -->
-![Snake animation](https://github.com/iphysicc/iphysicc/blob/output/github-contribution-grid-snake.svg)
+## 🤝 Connect with Me
+<p align="center">
+  <a href="your-linkedin-url">
+    <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/linkedin.svg" width="30px">
+  </a>&nbsp;&nbsp;
+  <a href="your-twitter-url">
+    <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/twitter.svg" width="30px">
+  </a>&nbsp;&nbsp;
+  <a href="your-portfolio-url">
+    <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/website.svg" width="30px">
+  </a>
+</p>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iphysicc&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views">
+</p>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iphysicc/iphysicc/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iphysicc/iphysicc/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iphysicc/iphysicc/output/github-contribution-grid-snake.svg">
+</picture>
