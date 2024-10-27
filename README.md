@@ -9,7 +9,9 @@
 </div>
 
 <div align="center">
-  <h2>Loading... New Projects...</h2>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8075FF&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%94%AE+Loading...,+New,+ Projects...;" alt="Typing SVG" />
+  </a>
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"> About Me
