@@ -83,7 +83,7 @@ const Physic = {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=iphysicc&repo=Discord-Bot-Creator&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iphysicc&repo=TheG&theme=radical&hide_border=true" />
   </a>
 </div>
 
@@ -105,17 +105,11 @@ const Physic = {
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="your-discord-invite-link">
+  <a href="[your-discord-invite-link](https://discord.gg/fwey6Gjkwe)">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="your-linkedin-url">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="your-twitter-url">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://x.com/_iphysic">
+    <img src="https://img.shields.io/badge/X%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
 </div>
 
