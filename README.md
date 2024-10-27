@@ -8,15 +8,7 @@
   <img src="https://profile-counter.glitch.me/iphysicc/count.svg" alt="Visitor Count" />
 </div>
 
-<div align="center">
-  <h2>Loading...</h2>
-  <div class="progress-container">
-    <div class="progress-bar"></div>
-  </div>
-</div>
-
-<style>
-  .progress-container {
+<div style=".progress-container {
     width: 100%;
     background-color: #e0e0e0;
     border-radius: 25px;
@@ -39,8 +31,12 @@
     to {
       width: 100%;
     }
-  }
-</style>
+  }" align="center">
+  <h2>Loading...</h2>
+  <div class="progress-container">
+    <div class="progress-bar"></div>
+  </div>
+</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"> About Me
 
