@@ -26,9 +26,8 @@ const Physic = {
 };
 ```
 
-## 🛠️ Technology Stack
-
 ### 💻 Languages
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,python,cs,java,html,css" />
 </div>
@@ -62,14 +61,11 @@ const Physic = {
 </table>
 
 ### 💫 Operating Systems
+
 <div align="center">
   <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
 ## 🎯 Featured Projects
@@ -107,9 +103,6 @@ const Physic = {
 <div align="center">
   <a href="[your-discord-invite-link](https://discord.gg/fwey6Gjkwe)">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://x.com/_iphysic">
-    <img src="https://img.shields.io/badge/X%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
 </div>
 
