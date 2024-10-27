@@ -42,19 +42,19 @@ const Physic = {
 <table align="center">
   <tr>
     <td align="center" width="150">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="45" height="45" alt="VS Code" />
+      <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="45" height="45" alt="VS Code" />
       <br>VS Code
     </td>
     <td align="center" width="150">
-      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="45" height="45" alt="Android Studio" />
+      <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" width="45" height="45" alt="Android Studio" />
       <br>Android Studio
     </td>
     <td align="center" width="150">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="45" height="45" alt="Visual Studio" />
+      <img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png" width="45" height="45" alt="Visual Studio" />
       <br>Visual Studio
     </td>
     <td align="center" width="150">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="45" height="45" alt="PyCharm" />
+      <img src="https://img.icons8.com/color/48/000000/pycharm.png" width="45" height="45" alt="PyCharm" />
       <br>PyCharm
     </td>
   </tr>
