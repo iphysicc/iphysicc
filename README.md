@@ -85,10 +85,10 @@ const Physic = {
 </div>
 
 <div align="center">
-  <a href="https://github.com/yourusername/project1">
+  <a href="https://github.com/iphysicc/Discord-Bot-Creator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=iphysicc&repo=Discord-Bot-Creator&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/yourusername/project2">
+  <a href="https://github.com/iphysicc/TheG">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=iphysicc&repo=TheG&theme=radical&hide_border=true" />
   </a>
 </div>
