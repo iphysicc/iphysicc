@@ -8,12 +8,6 @@
   <img src="https://profile-counter.glitch.me/iphysicc/count.svg" alt="Visitor Count" />
 </div>
 
-<p align="center">
-  <a href="https://github.com/iphysicc">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=iphysicc&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WildBox" />
-  </a>
-</p>
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30"> About Me
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
