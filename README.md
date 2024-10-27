@@ -101,7 +101,7 @@ const Physic = {
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="[your-discord-invite-link](https://discord.gg/fwey6Gjkwe)">
+  <a href="https://discord.gg/fwey6Gjkwe">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
