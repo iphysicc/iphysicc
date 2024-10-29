@@ -1,14 +1,17 @@
 <div align="center">
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=8075FF&height=190&section=header&text=Building%20The%20Future&fontSize=36&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%F0%9F%9A%80&descAlignY=55)
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8075FF&center=true&vCenter=true&random=false&width=600&lines=Crafting+Digital+Experiences+%F0%9F%94%AE;Building+The+Future+%F0%9F%9A%80;Code+with+passion%2C+debug+with+patience+%F0%9F%92%BB)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=8075FF&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%94%AE+Crafting+Digital+Experiences;%F0%9F%92%BB+Code+with+passion)](https://git.io/typing-svg)
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=iphysicc&color=8075FF&style=flat-square)
+  <a href="https://discord.gg/fwey6Gjkwe">
+    <img src="https://img.shields.io/badge/Discord-Join%20Community-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white&color=8075FF"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=iphysicc&color=8075FF&style=for-the-badge"/>
 
 </div>
 
-## 🧙‍♂️ Magical Tech Stack
-
-<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="350">
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400">
 
 ```typescript
 class TechWizard {
@@ -20,7 +23,7 @@ class TechWizard {
         frontend: ["⚛️ React", "⏭️ Next.js", "🎨 HTML/CSS"],
         backend: ["🟢 Node.js", "🐍 Python", "🔷 C#"],
         desktop: ["⚡ Electron.js", "🦀 Tauri"],
-        mobile: ["☕ Java"],
+        mobile: ["☕ Java"]
     };
     
     readonly questLog = "Building Cross-Platform Magic 🎯";
@@ -32,76 +35,54 @@ class TechWizard {
 }
 ```
 
-## 🎮 Tech Arsenal
+<br/>
+
+## 🎯 Languages & Tools
 
 <div align="center">
-  
-  ### 💻 Languages & Tools
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  
-  ### 🛠️ Frameworks & Libraries
-  ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-  ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-  ![Electron](https://img.shields.io/badge/Electron-%2347848F.svg?style=for-the-badge&logo=electron&logoColor=white)
-  ![Tauri](https://img.shields.io/badge/Tauri-%23FFC131.svg?style=for-the-badge&logo=tauri&logoColor=black)
-
+  <img src="https://skillicons.dev/icons?i=js,python,cs,java,html,css&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,electron,tauri,nodejs&theme=dark" />
 </div>
 
-## 🏗️ Development Sanctuary
+<br/>
+
+## 🛠️ Development Environment
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code.png" width="48" height="48"/>
-        <br />VS Code
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/48/000000/android-studio.png" width="48" height="48"/>
-        <br />Android Studio
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/48/000000/visual-studio.png" width="48" height="48"/>
-        <br />Visual Studio
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/pycharm.png" width="48" height="48"/>
-        <br />PyCharm
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=8075FF"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&color=8075FF"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white&color=8075FF"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white&color=8075FF"/>
 </div>
 
-## 🌟 Featured Enchantments
+<br/>
+
+## 🌟 Featured Projects
 
 <div align="center">
   <a href="https://github.com/iphysicc/Discord-Bot-Creator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iphysicc&repo=Discord-Bot-Creator&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iphysicc&repo=Discord-Bot-Creator&theme=transparent&hide_border=true&title_color=8075FF&icon_color=8075FF&text_color=ffffff" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/iphysicc/TheG">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iphysicc&repo=TheG&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iphysicc&repo=TheG&theme=transparent&hide_border=true&title_color=8075FF&icon_color=8075FF&text_color=ffffff" />
   </a>
 </div>
 
-## 📊 Spell Casting Stats
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=iphysicc&theme=tokyonight&no-frame=true&no-bg=true&column=4)
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iphysicc&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Spell%20Statistics" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=iphysicc&theme=tokyonight&hide_border=true" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=iphysicc&theme=discord&no-frame=true&no-bg=true&column=4&title_color=8075FF"/>
 </div>
 
-## 🤝 Join My Quest
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iphysicc&show_icons=true&theme=transparent&hide_border=true&title_color=8075FF&icon_color=8075FF&text_color=ffffff" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=iphysicc&theme=transparent&hide_border=true&ring=8075FF&fire=8075FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8075FF&sideLabels=8075FF" />
+</div>
 
 <div align="center">
-  
-  [![Discord](https://img.shields.io/badge/Discord-Join%20the%20Guild-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fwey6Gjkwe)
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8075FF&height=150&section=footer&text=Keep%20Casting%20Code!&fontSize=40&fontAlignY=65&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8075FF&height=100&section=footer"/>
 </div>
