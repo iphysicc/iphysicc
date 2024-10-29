@@ -63,11 +63,11 @@ const Physic = {
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212284116-240d8e54-1444-4d7c-8c07-6d57ac6e0d5d.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212284118-b91c9397-4102-4bd4-8f87-4e930eeeb9bf.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd76e9-9c5b-4479-8b2b-8d59b4c0394f.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="300">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300">
+  <img src="https://user-images.githubusercontent.com/74038190/212284116-240d8e54-1444-4d7c-8c07-6d57ac6e0d5d.gif" width="300">
+  <img src="https://user-images.githubusercontent.com/74038190/212284118-b91c9397-4102-4bd4-8f87-4e930eeeb9bf.gif" width="300">
+  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd76e9-9c5b-4479-8b2b-8d59b4c0394f.gif" width="300">
 </div>
 
 ### 🗄️ Databases
