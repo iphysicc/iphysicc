@@ -4,6 +4,13 @@
   </a>
 </div>
 
+### 🏆 Profile Achievements
+<p align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9485b43c-07d8-4c5f-9e71-644e4f8a81e6" width="400">
+<br><br>
+<img src="https://github-profile-trophy.vercel.app/?username=iphysicc&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><hr>
+</p>
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/iphysicc/count.svg" alt="Visitor Count" />
 </div>
@@ -45,6 +52,16 @@ const Physic = {
 ### 🎯 Frameworks
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,electron,tauri" />
+</div>
+
+### 🗄️ Databases
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+</div>
+
+### 🛠️ Tools & Services
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,aws" />
 </div>
 
 ### 🔧 Development Environment
@@ -107,6 +124,9 @@ const Physic = {
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
 </div>
+
+### 🐍 Contribution Snake
+![Snake animation](https://github.com/iphysicc/iphysicc/blob/output/github-contribution-grid-snake.svg)
 
 ## 🌐 Connect With Me
 
