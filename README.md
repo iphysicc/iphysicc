@@ -84,10 +84,9 @@ const Physic = {
 </table>
 
 ### Operating Systems
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,android" />
 </div>
 
 ## 📊 GitHub Analytics
