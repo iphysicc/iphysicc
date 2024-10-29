@@ -112,6 +112,10 @@ const Physic = {
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iphysicc&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" />
+</div>
+
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iphysicc&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=-1" width="100%" alt="Trophy" />
 </div>
 
