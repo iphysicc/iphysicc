@@ -86,7 +86,7 @@ const Physic = {
 ### Operating Systems
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,android" />
+  <img src="https://skillicons.dev/icons?i=windows, linux" />
 </div>
 
 ## 📊 GitHub Analytics
