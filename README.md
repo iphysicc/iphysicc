@@ -57,18 +57,45 @@ const Physic = {
 </div>
 
 ### 🎯 Frameworks
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,electron,tauri" />
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284116-240d8e54-1444-4d7c-8c07-6d57ac6e0d5d.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284118-b91c9397-4102-4bd4-8f87-4e930eeeb9bf.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd76e9-9c5b-4479-8b2b-8d59b4c0394f.gif" width="100">
+</div>
+
 ### 🗄️ Databases
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284116-240d8e54-1444-4d7c-8c07-6d57ac6e0d5d.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284118-b91c9397-4102-4bd4-8f87-4e930eeeb9bf.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd76e9-9c5b-4479-8b2b-8d59b4c0394f.gif" width="100">
+</div>
+
 ### 🛠️ Tools & Services
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,docker,aws" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284116-240d8e54-1444-4d7c-8c07-6d57ac6e0d5d.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284118-b91c9397-4102-4bd4-8f87-4e930eeeb9bf.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd76e9-9c5b-4479-8b2b-8d59b4c0394f.gif" width="100">
 </div>
 
 ### 🔧 Development Environment
@@ -94,12 +121,28 @@ const Physic = {
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284116-240d8e54-1444-4d7c-8c07-6d57ac6e0d5d.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284118-b91c9397-4102-4bd4-8f87-4e930eeeb9bf.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd76e9-9c5b-4479-8b2b-8d59b4c0394f.gif" width="100">
+</div>
+
 ### 💫 Operating Systems
 
 <div align="center">
   <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284116-240d8e54-1444-4d7c-8c07-6d57ac6e0d5d.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284118-b91c9397-4102-4bd4-8f87-4e930eeeb9bf.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd76e9-9c5b-4479-8b2b-8d59b4c0394f.gif" width="100">
 </div>
 
 ## 🎯 Featured Projects
@@ -115,6 +158,14 @@ const Physic = {
   <a href="https://github.com/iphysicc/TheG">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=iphysicc&repo=TheG&theme=radical&hide_border=true" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284116-240d8e54-1444-4d7c-8c07-6d57ac6e0d5d.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284118-b91c9397-4102-4bd4-8f87-4e930eeeb9bf.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd76e9-9c5b-4479-8b2b-8d59b4c0394f.gif" width="100">
 </div>
 
 ## 📊 GitHub Stats
@@ -141,12 +192,28 @@ const Physic = {
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284116-240d8e54-1444-4d7c-8c07-6d57ac6e0d5d.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284118-b91c9397-4102-4bd4-8f87-4e930eeeb9bf.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd76e9-9c5b-4479-8b2b-8d59b4c0394f.gif" width="100">
+</div>
+
 ## 🌐 Connect With Me
 
 <div align="center">
   <a href="https://discord.gg/fwey6Gjkwe">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284116-240d8e54-1444-4d7c-8c07-6d57ac6e0d5d.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284118-b91c9397-4102-4bd4-8f87-4e930eeeb9bf.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd76e9-9c5b-4479-8b2b-8d59b4c0394f.gif" width="100">
 </div>
 
 <div align="center">
