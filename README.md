@@ -141,5 +141,5 @@ const Physic = {
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=170&section=footer&text=Never%20Stop%20Learning!&fontSize=50&fontAlignY=65&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=200&color=gradient&customColorList=0,2,2,5,30&section=footer" width="100%">
 </div>
