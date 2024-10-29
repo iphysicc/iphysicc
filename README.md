@@ -1,4 +1,5 @@
 <div align="center">
+
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8075FF&center=true&vCenter=true&random=false&width=600&lines=Crafting+Digital+Experiences+%F0%9F%94%AE;Building+The+Future+%F0%9F%9A%80;Code+with+passion%2C+debug+with+patience+%F0%9F%92%BB)](https://git.io/typing-svg)
 
   ![Profile Views](https://komarev.com/ghpvc/?username=iphysicc&color=8075FF&style=flat-square)
