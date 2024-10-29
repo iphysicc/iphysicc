@@ -127,7 +127,3 @@ const Physic = {
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=200&color=gradient&customColorList=0,2,2,5,30&section=footer" width="100%">
-</div>
