@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Mert (Physic) 👋</h1>
   <h3>Full Stack Developer</h3>
-  <img src="https://komarev.com/ghpvc/?username=iphysicc&style=flat-square&color=8075FF" alt="Profile Views" />
   <br />
   <br />
   <p>
